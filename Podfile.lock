@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (4.6.0)
+  - MarqueeLabel (3.1.4):
+    - MarqueeLabel/ObjC (= 3.1.4)
+  - MarqueeLabel/ObjC (3.1.4)
+  - SlideMenuControllerSwift (4.0.0)
+  - SwiftyJSON (4.0.0)
+  - TextFieldEffects (1.4.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.6)
+  - MarqueeLabel (~> 3.1)
+  - SlideMenuControllerSwift
+  - SwiftyJSON (~> 4.0)
+  - TextFieldEffects (~> 1.4)
+
+SPEC CHECKSUMS:
+  Alamofire: f41a599bd63041760b26d393ec1069d9d7b917f4
+  MarqueeLabel: bf768455fe88d427f71476ebb23f9092b660f40b
+  SlideMenuControllerSwift: 021d6318201c53d4d4d3710517d43d6c556c7dd0
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  TextFieldEffects: 4ee41b5216e674d55fb6ac25107bf1af7629176f
+
+PODFILE CHECKSUM: 334225db1b0e23abdcfdd921f01c7135b1ae00de
+
+COCOAPODS: 1.2.1
